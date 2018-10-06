@@ -1,6 +1,6 @@
 # Alarm on your laptop
 
-Use your laptop's built-in webcam an microphone as an alarm system. Honestly, it has only been tested on mac.
+Use your laptop's built-in webcam an microphone as an alarm system. Honestly, it has only been tested on mac. In a separate repo I will remake a "suspicious behavior on video" machine learning example I saw at Spark + AI 2018 (stay tuned). 
 
 ## About
 
